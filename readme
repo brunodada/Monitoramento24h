@@ -1,1 +1,30 @@
-Landpage para empresa de alarmes
+# Monitoramento24h
+
+Este repositório contém os arquivos para a **landpage** de uma empresa de alarmes chamada Monitoramento24h.
+
+## Estrutura do Projeto
+
+- `index.html` - Página principal do site.
+- `style.css` - Estilos CSS utilizados na página.
+- `script.js` - Scripts JavaScript para interatividade.
+
+## Descrição
+
+A página serve como apresentação da empresa, destacando serviços oferecidos, contatos e informações relevantes sobre sistemas de segurança e alarmes.
+
+## Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/Monitoramento24h.git
+   ```
+2. Abra o `index.html` em um navegador para visualizar a landing page.
+
+## Atualizações
+
+- Adicione novos conteúdos de serviços, imagens ou seções conforme necessário.
+- Personalize o estilo em `style.css` e o comportamento em `script.js`.
+
+## Contato
+
+Para mais informações, entre em contato com a equipe de desenvolvimento ou com a empresa responsável.
