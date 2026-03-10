@@ -16,7 +16,7 @@ A página serve como apresentação da empresa, destacando serviços oferecidos,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/Monitoramento24h.git
+   git clone https://github.com/brunodada/Monitoramento24h.git
    ```
 2. Abra o `index.html` em um navegador para visualizar a landing page.
 
