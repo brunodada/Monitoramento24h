@@ -3,7 +3,7 @@
 // ================================
 
 // Número de WhatsApp (somente dígitos, com DDI e DDD)
-const WHATSAPP_NUMBER = "51997565042";
+const WHATSAPP_NUMBER = "5551997565042";
 
 // Mensagem padrão para contato rápido
 const WHATSAPP_MESSAGE =
